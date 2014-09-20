@@ -1,0 +1,120 @@
+---
+layout: resume
+category: resume
+title: "Time to change your apps"
+date: 2014-04-25 16:54:46
+author: Admin
+---
+### Education
+**2013-present Master of Computer Science, Keio University Tokyo, Japan**
+
+• Network systems, Deep Packet Inspection
+
+*2009-2013 Department of System Design Engineering, Keio University Tokyo, Japan*
+
+• Database Systems, Network Systems
+
+### Open Source Software Contribution
+**May 2014 - present Contributor at Apache Spark**
+
+• Apache Spark is a fast and general engine for large-scale data processing which was originally developed in AMPLab in UC Berkeley and became an apache top project since March 2014.
+
+• Developed basic Python API for SparkStreaming with Tathagata Das, a Spark committer and Ph.d candidate in AMPLab. Python API for SparkStreaming has huge demand from Spark community because most Spark users, especially for data scientist, prefer python.
+
+### Publication
+
+• Peer-reviewed International Conferences
+
+[2] Takagiwa, K.; Ishida, S.; Nishi, H., "SoR-Based Programmable Network for Future Software-Defined Network," Computer Software and Applications Conference (COMPSAC), 2013 IEEE 37th Annual , vol., no., pp.165,166, 22-26 July 2013
+
+[1] Takagiwa Kenichi; Kubo, Ryogo; Ishida, Shinichi; Inoue, Koichi; Nishi, Hiroaki, "Feasibility study of service-oriented architecture for smart grid communications," Industrial Electronics (ISIE), 2013 IEEE International Symposium on , vol., no., pp.1,7, 28-31 May 2013
+
+### Work Experience
+**August 2012 - present Co-founder and Chief Architect at Codeal Inc. Tokyo, Japan**
+
+?
+• Launched three different job matching sites in the IT field: "Engineer Intern"(URL: http://engineer-intern.jp/), “Engineer Shukatu”(URL: http://engineer-shukatu.jp/) and “Engineer Tenshoku”(URL: http://engineer-tenshoku.jp/) .
+
+• Developed and maintained the backend of three services on top of Amazon EC2 all by myself.
+
+• The sites received 70,000 page views per month in each site.
+
+• The company raised it status to “series A” and established relationships with over 260 IT companies including Japanese tech giants: LINE, Rakuten, DeNA etc…
+
+**August 2013 - July 2014 Technical Intern in CVG and NOSTG at Cisco Systems Inc. California, USA**
+
+• Manage the releases and builds for Application Policy Infrastructure Controller-Enterprise Module (APIC-EM), SDN controller application for enterprise, and maintain the development infrastructure to ensure seamless continuous integration inside Cloud Virtualization Group (CVG).
+
+• Designed and developed continuous integration system and scalable update system for APIC-EM in CVG.
+
+• Researched and developed the application “distributed network management system (Network Search)”, which is integrated with Cisco OnePK in Network Operating System Technology Group (NOSTG).
+
+• Collaborated with Distributed Data Management project in NOSTG and applied Network Search for IoE data analytics.
+
+• Participated as a coordinator at the first external Cisco Hackthon during Cisco Live 2014.
+
+**April 2012 - July 2013 Research Assistant at Nishi laboratory Tokyo, Japan**
+
+• Researched the integration of NoSQL database with Service-oriented Router (SoR), with the goal of analyzing and storing packets on the router in order to provide customized service for each individual user.
+
+• Evaluated various NoSQL databases: Kyoto Cabinet/Tycoon and LevelDB during the Service-oriented Router (SoR) research.
+
+• Developed insert and select algorithms with SQL like interface with the support of two-dimensional search on top of Kyoto Cabinet/Tycoon. As result, the performance of the insertion queries was about 60 times faster than PostgrSQL.
+
+**August 2011 - September 2011 Marketing Assistant at SunBridge Inc. California, USA**
+
+• Interviewed with the CEOs of 20 IT startups as a part of marketing research project and discovered the latest trend of startup companies in Plug and Play Tech Center, an incubation center.
+
+• Analyzed the incubation trend in Silicon Valley and recommended to improve environment to focus on serial entrepreneurs in order to get new residents in Plug and Play Tech Center.
+
+**April 2009 - August 2011 Web Creator at Burning Galaxy Inc. Tokyo, Japan**
+
+• Developed and maintained a fund raising site for a non-profit organization (NPO). The site raised 1,150 dollars in 2010.
+
+• Redesigned and implemented most of frontend of the site.
+
+### Volunteer Experience
+**August 2013 – July 2014 Cisco Systems Inc. California, USA**
+
+• Delivered a lecture and DEMO about APIC-EM, what Cisco is doing and history of Cisco to 60 promising university students, 30 entrepreneurs and 15 CEOs and board members of Japanese companies in Cisco campus.
+
+• Delivered bicycles to kids in a charity event which is hold by Turning Wheels for Kids.
+
+**March 2011 Burning Galaxy Inc. Tokyo, Japan**
+
+• Launched a web site to raise money for the relief of the Great East Japan Earthquake and the subsequent tsunami.
+
+• Promoted the site on Facebook, Twitter, and more in order to influence to more people.
+
+• Raised 600 dollars donation and gathered over 100 messages for the victims of the disaster in two weeks.
+
+• Visited the suffering areas in order to deliver messages in hand and inspect the damage of the disaster.
+
+### Teaching Experience
+**August 2014 Summer session for high school students at Keio University Tokyo, Japan**
+
+• Taught basic circuit fabrication and programming for making digital insects. 
+
+### Skills
+
+• Experienced in web application, smart phone application, web design and distributed system
+
+• Proficient in C/C++, Python, PHP, JavaScript, SQL, HTML, CSS, Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver, Adobe After Effect, Adobe Premiere
+
+• Operating System: Unix, Windows, and Macintosh
+
+### Activities (Leadership)
+**2012 Co-founder and the President of Keio Oversea Study Advisory Community Tokyo, Japan**
+
+• Organized an on-campus info-session for students who seek to obtain a Ph.D. or Masters degree in the U.S., which was participated by about 200 students.
+
+• Invited lecturers from MIT, UCB, and Caltech to talk in the event.
+
+**2011 President of Communication Platform between Businessmen and Students Tokyo, Japan**
+
+• Revitalized the group from scratch and led 10 students as a president.
+
+**2010 President of the Keio Internet Business Group Tokyo, Japan**
+
+• Learned about business on the Internet and then taught younger students how to create a web service themselves
+
