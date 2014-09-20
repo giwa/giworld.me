@@ -4,7 +4,7 @@
 title: Giworld
 description: "Giwa's personal site. I will mainly write about code."
 baseurl: ""
-url: "http://giworld.com"
+url: "http://giworld.me"
 
 # Build settings
 markdown: kramdown
