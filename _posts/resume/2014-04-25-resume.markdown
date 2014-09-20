@@ -10,7 +10,7 @@ author: Admin
 
 • Network systems, Deep Packet Inspection
 
-*2009-2013 Department of System Design Engineering, Keio University Tokyo, Japan*
+**2009-2013 Department of System Design Engineering, Keio University Tokyo, Japan**
 
 • Database Systems, Network Systems
 
@@ -32,7 +32,6 @@ author: Admin
 ### Work Experience
 **August 2012 - present Co-founder and Chief Architect at Codeal Inc. Tokyo, Japan**
 
-?
 • Launched three different job matching sites in the IT field: "Engineer Intern"(URL: http://engineer-intern.jp/), “Engineer Shukatu”(URL: http://engineer-shukatu.jp/) and “Engineer Tenshoku”(URL: http://engineer-tenshoku.jp/) .
 
 • Developed and maintained the backend of three services on top of Amazon EC2 all by myself.
