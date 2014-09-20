@@ -5,7 +5,8 @@ title: "Time to change your apps"
 date: 2014-04-25 16:54:46
 author: Admin
 ---
-[PDF]({{ site.url }}/assets/downloads/resume/latest) }})
+
+## [PDF]({{ site.url }}/assets/downloads/resume/latest) 
 
 ### Education
 **2013-present Master of Computer Science, Keio University Tokyo, Japan**
