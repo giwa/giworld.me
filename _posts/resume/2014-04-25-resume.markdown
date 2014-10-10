@@ -6,7 +6,7 @@ date: 2014-04-25 16:54:46
 author: Admin
 ---
 
-## [PDF]({{ site.url }}/assets/downloads/resume/resume20140827.pdf) 
+## [PDF]({{ site.url }}/assets/downloads/resume/web_resume.pdf) 
 
 ### Education
 **2013-present Master of Computer Science, Keio University Tokyo, Japan**
